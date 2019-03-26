@@ -1,27 +1,6 @@
-/*!******* временные для тестирования *******!
-
-.bg-test{
-  &-1{
-    background-color:$bg-test-1;
-  }
-  &-2{
-    background-color:$bg-test-2;
-  }
-  &-3{
-    background-color:$bg-test-3;
-  }
-  &-4{
-    background-color:$bg-test-4;
-  }
-  &-5{
-    background-color:$bg-test-5;
-  }
-}
-!******* end_временные для тестирования *******!*/
-
 /******* фон *******/
 
-.bg-fb {
+/*.bg-fb {
     width: 41px; height: 41px;
     background: url('../img/icons/socials-sprites.png') -10px -10px;
 }
@@ -36,16 +15,16 @@
 .bg-yt {
     width: 41px; height: 41px;
     background: url('../img/icons/socials-sprites.png') -71px -71px;
-}
+}*/
 /******* end_фон *******/
 
 
 /*._fixed{
   position:fixed;
 }*/
-._relative{
+/*._relative{
   position:relative;
 }
 ._shadow{
     box-shadow: 0 0 15px 0 rgba(0,0,0,0.5);
-}
+}*/
