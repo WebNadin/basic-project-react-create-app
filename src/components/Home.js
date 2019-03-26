@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom'
 
 const Home = () => (
   <div>
+      test
     <ul>
       {
         UserAPI.all().map(p => (
